@@ -1,5 +1,5 @@
 # School-Management-Portal
-This project is a full-stack web-based portal designed to streamline the management of school operations. It allows administrators, teachers, and staff to efficiently handle student data, attendance, results, and other administrative workflows.
+This project is a full-stack web-based portal designed to streamline the management of school operations. It allows administrators, teachers, and staff to efficiently handle student data, attendance, results, and other administrative workflows..
 
 Key Features
 
